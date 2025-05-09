@@ -96,23 +96,6 @@ export function Sidebar({ isOpen, toggleSidebar }: SidebarProps) {
                     </>
                   )}
                 </div>
-
-                {/* Show children for Calendar item when expanded */}
-                {/* {isOpen && item.children && item.active && (
-                  <div className="ml-6 mt-1 flex flex-col gap-1">
-                    {item.children.map((child) => (
-                      <div
-                        key={child.name}
-                        className={cn(
-                          "flex items-center gap-2 rounded-md px-2 py-1 text-xs",
-                          child.active ? "bg-blue-50 text-blue-600" : "text-gray-700 hover:bg-gray-100",
-                        )}
-                      >
-                        <span>{child.name}</span>
-                      </div>
-                    ))}
-                  </div>
-                )} */}
               </div>
             ))}
           </div>
