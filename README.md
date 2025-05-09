@@ -2,8 +2,6 @@
 
 A modern, responsive booking calendar application built with Next.js, React, and Tailwind CSS. This application provides a comprehensive solution for managing bookings and appointments with a clean, user-friendly interface.
 
-![Calendar App Screenshot](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5oAYOUzLStQhK1Pwh5v2eUUSrsw2Oh.png)
-
 ## Features
 
 - **Weekly Calendar View**: Display appointments in a weekly calendar format with time slots from 06:00 to 20:00
